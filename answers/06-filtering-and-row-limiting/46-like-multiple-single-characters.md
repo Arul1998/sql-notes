@@ -28,5 +28,4 @@ WHERE CustomerName LIKE '__ya';
 
 | CustomerId | CustomerName | City |
 |---:|---|---|
-| 2 | Priya | Manchester |
 | 5 | Maya | Manchester |
