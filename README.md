@@ -42,5 +42,6 @@ All examples use Microsoft SQL Server and T-SQL.
 If these SQL notes help you:
 
 - ⭐ Star this repository
+- ☕ [Buy me a coffee](https://buymeacoffee.com/arulcornelious)
 
 Your support motivates me to continue creating more SQL Server lessons.
