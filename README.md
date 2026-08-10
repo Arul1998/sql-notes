@@ -4,8 +4,7 @@ Simple SQL Server lessons, examples, exercises, and answers for beginners.
 
 ## Progress
 
-- ✅ Lessons 1–50 completed
-- ⏳ Lessons 51–75 in progress
+- ✅ Lessons 1–75 completed
 - 📅 Lessons 76–100 planned
 
 ## Repository Structure
@@ -26,6 +25,10 @@ Every lesson and answer has its own Markdown file.
 - `GROUP BY` and `HAVING`
 - SQL joins
 - `INSERT`, `UPDATE`, and `DELETE`
+- Conditional expressions with `CASE`, `IIF`, and `CHOOSE`
+- NULL-handling functions with `ISNULL`, `COALESCE`, and `NULLIF`
+- String functions such as `CONCAT`, `LEN`, `TRIM`, and `SUBSTRING`
+- Number formatting and rounding with `FORMAT` and `ROUND`
 
 All examples use Microsoft SQL Server and T-SQL.
 
