@@ -4,8 +4,8 @@ Simple SQL Server lessons, examples, exercises, and answers for beginners.
 
 ## Progress
 
-- ✅ Lessons 1–75 completed
-- 📅 Lessons 76–100 planned
+- ✅ Lessons 1–100 completed
+- 📅 Lessons 101–125 next
 
 ## Repository Structure
 
@@ -28,7 +28,11 @@ Every lesson and answer has its own Markdown file.
 - Conditional expressions with `CASE`, `IIF`, and `CHOOSE`
 - NULL-handling functions with `ISNULL`, `COALESCE`, and `NULLIF`
 - String functions such as `CONCAT`, `LEN`, `TRIM`, and `SUBSTRING`
-- Number formatting and rounding with `FORMAT` and `ROUND`
+- Number formatting and rounding with `FORMAT`, `ROUND`, `CEILING`, and `FLOOR`
+- Mathematical functions such as `ABS`, `POWER`, and `SQRT`
+- Date and time functions such as `GETDATE`, `DATEADD`, `DATEDIFF`, `DATEPART`, and `EOMONTH`
+- Data type conversion with `CAST`, `CONVERT`, `TRY_CAST`, and `TRY_CONVERT`
+- Data validation with `ISDATE` and `ISNUMERIC`
 
 All examples use Microsoft SQL Server and T-SQL.
 
