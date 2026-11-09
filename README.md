@@ -4,9 +4,8 @@ Simple SQL Server lessons, examples, exercises, and answers for beginners.
 
 ## Progress
 
-- ✅ Lessons 1–100 completed
-- ✅ Lessons 101–125 completed
-- ✅ Lessons 126–150 completed
+- ✅ Lessons 1–150 completed
+- 📅 Lessons 151–175 in progress
 
 ## Repository Structure
 
@@ -28,8 +27,7 @@ Every lesson and answer has its own Markdown file.
 - `INSERT`, `UPDATE`, and `DELETE`
 - Conditional expressions with `CASE`, `IIF`, and `CHOOSE`
 - NULL-handling functions with `ISNULL`, `COALESCE`, and `NULLIF`
-- String functions such as `CONCAT`, `LEN`, `TRIM`, and `SUBSTRING`
-- Number formatting and rounding with `FORMAT`, `ROUND`, `CEILING`, and `FLOOR`
+- Number formatting and rounding with `ROUND`, `CEILING`, and `FLOOR`
 - Mathematical functions such as `ABS`, `POWER`, and `SQRT`
 - Date and time functions such as `GETDATE`, `DATEADD`, `DATEDIFF`, `DATEPART`, and `EOMONTH`
 - Data type conversion with `CAST`, `CONVERT`, `TRY_CAST`, and `TRY_CONVERT`
@@ -41,6 +39,11 @@ Every lesson and answer has its own Markdown file.
 - `MERGE` for inserting, updating, and deleting rows
 - Safe conversion with `TRY_CAST`, `TRY_CONVERT`, and `TRY_PARSE`
 - String aggregation with `STRING_AGG`
+- Text combination and replacement: `CONCAT`, `CONCAT_WS`, `REPLACE`, `TRANSLATE`, `REPLICATE`, `STUFF`
+- Text search and extraction: `CHARINDEX`, `PATINDEX`, `LEFT`, `RIGHT`, `SUBSTRING`
+- Text length and trimming: `LEN`, `DATALENGTH`, `TRIM`, `LTRIM`, `RTRIM`
+- Text utilities and character codes: `REVERSE`, `SPACE`, `ASCII`, `CHAR`, `UNICODE`, `NCHAR`
+- Identifier and numeric formatting: `QUOTENAME`, `FORMAT`, `STR`
 
 All examples use Microsoft SQL Server and T-SQL.
 
