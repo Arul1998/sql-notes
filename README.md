@@ -6,7 +6,7 @@ Simple SQL Server lessons, examples, exercises, and answers for beginners.
 
 - ✅ Lessons 1–100 completed
 - ✅ Lessons 101–125 completed
-- 📅 Lessons 126–150 next
+- ✅ Lessons 126–150 completed
 
 ## Repository Structure
 
